@@ -10,6 +10,11 @@ A user interface design project for a pizzeria application created in Figma. It 
 ## Prototyping
 This project includes interactive prototypes demonstrating the user flow and interactions within the application. The prototype simulates real-world usage, allowing for usability testing and refinements.
 
+
+https://github.com/user-attachments/assets/772f9972-7777-4ba4-8fdb-0d7e53005b52
+
+
+
 ## Technologies
 This project was created using:
 - **Figma** - UI/UX design tool
@@ -18,3 +23,5 @@ This project was created using:
 1. Download the `pizzeria.fig` file
 2. Open it in **Figma** (via the application or web version)
 3. You can also review the exported screens in the `screens.pdf` file
+
+
